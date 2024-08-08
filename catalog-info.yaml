@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: springbootweb2
+  annotations:
+    github.com/project-slug: anglechen/springbootweb2 
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
